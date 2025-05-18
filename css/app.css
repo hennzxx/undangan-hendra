@@ -16,11 +16,11 @@ body::-webkit-scrollbar {
 }
 
 .font-estetik {
-    font-family: 'Sacramento', cursive !important;
-    color: #000080 !important;
+    font-family: 'Parisienne', cursive !important;
+    color: #EAD196 !important;
 }
 .font-estetik2 {
-    font-family: 'Sacramento', cursive !important;
+    font-family: 'Parisienne', cursive !important;
     color: #FFF2D8 !important;
 }
 .d-inline {
@@ -33,7 +33,7 @@ body::-webkit-scrollbar {
     position: relative;
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid #FFF2D8 !important;
+    border: 1px solid #EAD196 !important;
 }
 
 .cropper-1 {
@@ -42,7 +42,7 @@ body::-webkit-scrollbar {
     position: relative;
     overflow: hidden;
     border-radius: 10%;
-    border: 1px solid #FFF2D8 !important;
+    border: 1px solid #EAD196 !important;
 }
 
 .cropper>img {
@@ -59,8 +59,8 @@ body::-webkit-scrollbar {
     z-index: 1055;
 }
 .btn {
-    color: #000080;
-    border-color: #000080;
+    color: #EAD196;
+    border-color: #EAD196;
 }
 
 .loading {
@@ -84,14 +84,14 @@ body::-webkit-scrollbar {
     border-radius: 1.4rem;
     opacity: 0.75;
     box-sizing: content-box;
-    border: 1px solid #000080 !important;
+    border: 1px solid #EAD196 !important;
 }
 
 .scroller {
     width: 0.25rem;
     height: 0.625rem;
     border-radius: 25%;
-    background-color: #000080;
+    background-color: #EAD196;
     animation-name: scroll;
     animation-duration: 2.5s;
     animation-timing-function: linear;
