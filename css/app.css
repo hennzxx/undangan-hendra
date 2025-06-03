@@ -71,6 +71,13 @@ body::-webkit-scrollbar {
     top: 80%;
 }
 
+.text-thewed {
+    color: #f10707;
+    margin: 0;
+    position: absolute;
+    top: 15%;
+}
+
 .loading {
     position: fixed;
     top: 0;
