@@ -59,7 +59,7 @@ const timer = () => {
         if (distance < 0) {
             clearInterval(time);
             time = undefined;
-            alert('Acara khitanan putra kami sudah selesai. Terima kasih banyak buat yang telah hadir 😊');
+            alert('Acara Bidston sudah selesai. Terima kasih untuk waktunya 😊');
             return;
         }
 
